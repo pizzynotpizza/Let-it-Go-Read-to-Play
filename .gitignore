@@ -1,0 +1,15 @@
+# Python cache (made again when the hand tracker runs)
+__pycache__/
+*.pyc
+
+# Logs written while playing
+*.log
+Let it Go_Data/StreamingAssets/HandTracker/Log/
+
+# Unity debug symbols, not needed to play
+*_BurstDebugInformation_DoNotShip/
+*.pdb
+
+# Windows / editor junk
+Thumbs.db
+desktop.ini
